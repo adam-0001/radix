@@ -25,8 +25,9 @@
 package radix
 
 import (
-	"github.com/CrimsonAIO/radix/internal"
 	"math"
+
+	"github.com/adam-0001/radix/internal"
 )
 
 const (
